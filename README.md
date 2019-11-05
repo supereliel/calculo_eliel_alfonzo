@@ -1,2 +1,2 @@
 # calculo_eliel_alfonzo
-Repositorio para la materia calculo numerico(udone)
+Repositorio para la materia cálculo numérico(udone)
